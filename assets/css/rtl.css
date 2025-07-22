@@ -1,0 +1,470 @@
+
+/*=============================
+	01. Header
+===============================*/
+[dir='rtl'] .header-top-social .title {
+    margin-left: 6px;
+    margin-right: 0;
+}
+[dir='rtl'] .offcanvas-toggle {
+    border-left: 1px solid var(--tg-gray);
+    border-right: none;
+}
+[dir='rtl'] .navbar-wrap ul {
+    margin: 0 185px 0 0;
+}
+[dir='rtl'] .header-search-wrap form button {
+    right: auto;
+    left: 15px;
+}
+[dir='rtl'] .header-search-wrap form input {
+    padding: 12px 20px 12px 45px;
+}
+[dir='rtl'] .header-action > ul {
+    margin-left: 0;
+    margin-right: 25px;
+}
+[dir='rtl'] .header-action > ul li {
+    margin-left: 0;
+    margin-right: 25px;
+}
+[dir='rtl'] .header-action > ul li:first-child {
+    margin-right: 0;
+}
+[dir='rtl'] .header-action .header-sine-in {
+    margin-left: 0;
+    margin-right: 20px;
+}
+[dir='rtl'] .header-action ul li a span {
+    right: auto;
+    left: -10px;
+}
+[dir='rtl'] .header-right-side {
+    padding-right: 0px;
+    padding-left: 35px;
+}
+[dir='rtl'] .scroll-top {
+    right: auto;
+    left: 30px;
+}
+[dir='rtl'] .darkmode-trigger {
+    right: auto;
+    left: 15px;
+}
+[dir='rtl'] .navbar-wrap ul li .sub-menu > li > a::before,
+[dir='rtl'] .navbar-wrap ul li .sub-menu li a::before {
+    left: auto;
+    right: 15px;
+}
+[dir='rtl'] .navbar-wrap ul li .sub-menu li a {
+    padding: 9px 25px 9px 15px;
+}
+[dir='rtl'] .navbar-wrap ul li .sub-menu>li.menu-item-has-children>a::after {
+    transform: rotate(180deg);
+}
+[dir='rtl'] .navbar-wrap ul li .sub-menu .sub-menu {
+    right: 100%;
+    left: auto;
+}
+[dir='rtl'] .mobile-menu .close-btn {
+    right: auto;
+    left: 15px;
+}
+[dir='rtl'] .mobile-menu .nav-logo {
+    text-align: right;
+}
+[dir='rtl'] .mobile-search input {
+    padding: 10px 20px 10px 45px;
+}
+[dir='rtl'] .mobile-search button {
+    right: auto;
+    left: 20px;
+}
+[dir='rtl'] .mobile-menu .navigation li.menu-item-has-children .dropdown-btn {
+    right: auto;
+    left: 15px;
+}
+[dir='rtl'] .mobile-menu .navigation li>a {
+    padding: 10px 25px 10px 60px;
+}
+[dir='rtl'] .mobile-menu .navigation li ul li > a {
+    margin-left: 0px;
+    margin-right: 20px;
+}
+[dir='rtl'] .mobile-menu .navigation li ul li ul li a {
+    margin-left: 0;
+    margin-right: 40px;
+}
+[dir='rtl'] .search__input input {
+    padding-right: 0;
+    padding-left: 30px;
+}
+[dir='rtl'] .search__input button {
+    right: auto;
+    left: 0;
+}
+[dir='rtl'] .search__close {
+    right: auto;
+    left: 2%;
+}
+
+/* home-two */
+[dir='rtl'] .menu-style-two .navbar-wrap > ul > li {
+    margin-right: 0;
+    margin-left: 40px;
+}
+[dir='rtl'] .menu-style-two .navbar-wrap ul li:last-child {
+    margin-left: 0;
+}
+[dir='rtl'] .menu-style-two .navbar-wrap ul {
+    margin: 0;
+}
+
+/* home-three */
+[dir='rtl'] .header-top-left .offcanvas-toggle {
+    border-left: none;
+}
+[dir='rtl'] .header-top-right .header-search-wrap form {
+    margin-left: 0;
+    margin-right: auto;
+}
+[dir='rtl'] .menu-style-three .navbar-wrap ul {
+    margin: 0 auto;
+}
+
+/* home-four */
+[dir='rtl'] .menu-style-four .navbar-wrap ul {
+    margin: 0 auto;
+}
+
+
+
+/*=============================
+	02. OffCanvas
+===============================*/
+[dir='rtl'] .offCanvas-toggle {
+    left: 30px;
+    right: auto;
+}
+[dir='rtl'] .offcanvas-toggle.offcanvas-toggle-two {
+    border-left: none;
+}
+[dir='rtl'] .menu-style-six .offcanvas-toggle {
+    border-right: 1px solid var(--tg-gray);
+    border-left: 1px solid var(--tg-gray);
+}
+[dir='rtl'] .hl-left-side .offcanvas-toggle {
+    border-left: none;
+}
+
+/*=============================
+	02. Breadcrumb
+===============================*/
+[dir='rtl'] .breadcrumb-content .breadcrumb-item+.breadcrumb-item::before {
+    float: right;
+    transform: rotate(180deg);
+}
+[dir='rtl'] .breadcrumb-item+.breadcrumb-item {
+    padding-right: 0;
+}
+[dir='rtl'] .breadcrumb-content .breadcrumb-item+.breadcrumb-item {
+    padding-left: 0;
+}
+
+
+/*=============================
+	03. Featured
+===============================*/
+[dir='rtl'] .post-title a {
+    background-position: right 100%;
+}
+[dir='rtl'] .section-title-line-three {
+    margin-left: 0px;
+    margin-right: -15px;
+}
+[dir='rtl'] .editor-nav .slick-arrow {
+    transform: rotate(180deg);
+}
+
+/*=============================
+	04. Newsletter
+===============================*/
+[dir='rtl'] .newsletter-content {
+    margin-left: 50px;
+    margin-right: 0;
+}
+[dir='rtl'] .sidebar-newsletter-form input {
+    padding: 13px 20px 13px 45px;
+}
+[dir='rtl'] .sidebar-newsletter-form button {
+    right: auto;
+    left: 18px;
+}
+[dir='rtl'] .newsletter-wrap-two .newsletter-content {
+    margin-right: 0;
+    margin-left: 40px;
+}
+[dir='rtl'] .newsletter-social {
+    margin-left: 0;
+    margin-right: 60px;
+}
+[dir='rtl'] .newsletter-wrap-three .newsletter-content {
+    margin-left: 35px;
+}
+[dir='rtl'] .form-check .form-check-input {
+    margin: 0 0px 0 8px;
+}
+[dir='rtl'] .newsletter-wrap-four .newsletter-content {
+    margin-left: 0;
+}
+[dir='rtl'] .sidebar-search form input {
+    padding: 14px 20px 14px 60px;
+}
+[dir='rtl'] .sidebar-search form button {
+    right: auto;
+    left: 6px;
+}
+
+/*=============================
+	05. Latest Post
+===============================*/
+[dir='rtl'] .section-title-line::before {
+    left: auto;
+    right: 0;
+}
+[dir='rtl'] .section-title-line::after {
+    left: auto;
+    right: 36px;
+}
+[dir='rtl'] .sidebar-wrap {
+    margin-left: 0px;
+    margin-right: 40px;
+}
+[dir='rtl'] .video-small-post-wrap {
+    padding-left: 0;
+    padding-right: 35px;
+}
+[dir='rtl'] .video-small-post-wrap::before {
+    left: auto;
+    right: 0;
+}
+[dir='rtl'] .sidebar-wrap-three {
+    padding-left: 0;
+    padding-right: 10px;
+}
+[dir='rtl'] .sidebar-wrap-three::before {
+    left: auto;
+    right: -10px;
+}
+[dir='rtl'] .news-banner-small-post {
+    padding-right: 0;
+    padding-left: 10px;
+}
+[dir='rtl'] .news-banner-small-post::before {
+    right: auto;
+    left: -10px;
+}
+[dir='rtl'] .politics-post-wrap-two {
+    padding-left: 0;
+    padding-right: 10px;
+}
+[dir='rtl'] .politics-post-wrap-two::before {
+    left: auto;
+    right: -15px;
+}
+[dir='rtl'] .banner-post-seven::before {
+    right: auto;
+    left: -20px;
+}
+[dir='rtl'] .editor-post-three::before {
+    right: auto;
+    left: -20px;
+}
+[dir='rtl'] .editor-nav-two .slick-arrow {
+    transform: rotate(180deg);
+}
+
+/*=============================
+	06. Horizontal Post
+===============================*/
+[dir='rtl'] .horizontal-post-thumb {
+    margin-right: 0;
+    margin-left: 30px;
+}
+[dir='rtl'] .popular-post .thumb {
+    margin-right: 0;
+    margin-left: 16px;
+}
+[dir='rtl'] .horizontal-post-two .horizontal-post-thumb {
+    margin: 0;
+}
+
+/*=============================
+	07. Blog details
+===============================*/
+[dir='rtl'] .blog-avatar-img {
+    margin-right: 0;
+    margin-left: 30px;
+}
+[dir='rtl'] .post-item.next-post {
+    text-align: left;
+}
+[dir='rtl'] .comments-avatar {
+    margin-right: 0;
+    margin-left: 25px;
+}
+[dir='rtl'] .comment-form .checkbox-grp input {
+    margin-right: 0;
+    margin-left: 9px;
+}
+[dir='rtl'] .blog-details-content p.first-info::first-letter {
+    margin-right: 0;
+    margin-left: 8px;
+}
+[dir='rtl'] .blog-inner-wrap .sidebar-wrap {
+    margin-left: 40px;
+    margin-right: 0;
+}
+
+/*=============================
+	08. footer
+===============================*/
+[dir='rtl'] .footer-widget .fw-title::before {
+    left: auto;
+    right: 0;
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 10% 100%);
+}
+[dir='rtl'] .footer-top .row [class*="col-"]:nth-child(3) .footer-widget {
+    margin-left: 0;
+    margin-right: 55px;
+}
+[dir='rtl'] .footer-bottom-menu .list-wrap li::before {
+    right: auto;
+    left: -14px;
+}
+[dir='rtl'] .copyright-text p {
+    text-align: left;
+}
+[dir='rtl'] .contact-info-item .content::before {
+    left: auto;
+    right: -25px;
+}
+
+
+
+/* Extra large devices (large desktops, 1800px and up) */
+@media (max-width: 1800px) {
+[dir='rtl'] .navbar-wrap ul {
+    margin: 0 35px 0 0;
+}
+
+}
+
+
+/* Extra large devices (large desktops, 1800px and up) */
+@media (max-width: 1500px) {
+[dir='rtl'] .header-right-side {
+    padding-left: 20px;
+}
+
+}
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (max-width: 1199.98px) {
+[dir='rtl'] .menu-area .mobile-nav-toggler {
+    margin-left: 0;
+    margin-right: 25px;
+}
+[dir='rtl'] .logo.text-center {
+    text-align: right !important;
+}
+[dir='rtl'] .newsletter-content {
+    margin-left: 20px;
+}
+[dir='rtl'] .popular-post .thumb {
+    margin-left: 10px;
+}
+[dir='rtl'] .footer-top .row [class*="col-"]:nth-child(3) .footer-widget {
+    margin-right: 40px;
+}
+[dir='rtl'] .sidebar-wrap {
+    margin-right: 0;
+}
+[dir='rtl'] .video-small-post-wrap {
+    padding-right: 25px;
+}
+[dir='rtl'] .newsletter-wrap-two .newsletter-content {
+    margin-left: 20px;
+}
+[dir='rtl'] .header-right-side {
+    padding-left: 0;
+}
+[dir='rtl'] .newsletter-wrap-three .newsletter-content {
+    margin-left: 30px;
+}
+[dir='rtl'] .newsletter-social {
+    margin-right: 0;
+}
+[dir='rtl'] .header-logo-area-three .logo.text-center {
+    text-align: center !important;
+}
+[dir='rtl'] .banner-post-seven::before {
+    left: -15px;
+}
+[dir='rtl'] .editor-post-three::before {
+    left: -15px;
+}
+[dir='rtl'] .sidebar-wrap-three {
+    padding-right: 0px;
+}
+[dir='rtl'] .blog-inner-wrap .sidebar-wrap {
+    margin-left: 0;
+}
+
+}
+
+
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 991.98px) {
+[dir='rtl'] .popular-post .thumb {
+    margin-left: 16px;
+}
+[dir='rtl'] .footer-top .row [class*="col-"]:nth-child(3) .footer-widget {
+    margin-right: 0px;
+}
+[dir='rtl'] .newsletter-wrap-two .newsletter-content {
+    margin-left: 0;
+}
+[dir='rtl'] .video-small-post-wrap {
+    padding-right: 0;
+}
+[dir='rtl'] .newsletter-wrap-three .newsletter-content {
+    margin-left: 0;
+}
+[dir='rtl'] .politics-post-wrap-two {
+    padding-right: 0;
+}
+
+
+}
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 767.98px) {
+[dir='rtl'] .copyright-text p {
+    text-align: center;
+}
+[dir='rtl'] .blog-avatar-img {
+    margin: 0 0 20px 0;
+}
+[dir='rtl'] .comments-avatar {
+    margin: 0 0 20px 0;
+}
+[dir='rtl'] .contact-info-item .content::before {
+    right: -15px;
+}
+
+}
+
