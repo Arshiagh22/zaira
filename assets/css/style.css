@@ -50,7 +50,7 @@
 @import url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css');
 
 @font-face {
-  font-family: 'Hamrah';
+  font-family: 'IRANSans';
   src: url('/assets/fonts/IRANSansX-Light.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
@@ -60,8 +60,8 @@
 	01. Variable CSS
 ===============================*/
 :root {
-    --tg-body-font-family: 'Hamrah', sans-serif;
-    --tg-heading-font-family: 'Hamrah', sans-serif;
+    --tg-body-font-family: 'IRANSans', sans-serif;
+    --tg-heading-font-family: 'IRANSans', sans-serif;
     --tg-primary-color: #F4796C;
     --tg-secondary-color: #183354;
     --tg-body-font-color: #545E69;
