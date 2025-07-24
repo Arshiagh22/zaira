@@ -48,8 +48,8 @@
 @import url("https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css");
 
 @font-face {
-  font-family: "IRANSans";
-  src: url("/assets/fonts/IRANSansX-Light.woff2") format("woff2");
+  font-family: "Vazirmatn";
+  src: url("/assets/fonts/Vazirmatn-FD-Light.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -58,8 +58,8 @@
 	01. Variable CSS
 ===============================*/
 :root {
-  --tg-body-font-family: "IRANSans", sans-serif;
-  --tg-heading-font-family: "IRANSans", sans-serif;
+  --tg-body-font-family: "Vazirmatn", sans-serif;
+  --tg-heading-font-family: "Vazirmatn", sans-serif;
   --tg-primary-color: #f4796c;
   --tg-secondary-color: #183354;
   --tg-body-font-color: #545e69;
