@@ -1598,10 +1598,10 @@ label {
   position: fixed;
   overflow-y: auto;
   top: 0px;
-  left: 0px;
+  right: 0px;
   width: 395px;
   padding: 80px 58px 75px;
-  transform: translateX(400%);
+  transform: translateX(100%);
   height: 100%;
   background-color: var(--tg-white);
   z-index: 1020;
@@ -1611,7 +1611,7 @@ label {
   box-shadow: rgba(0, 0, 0, 0.06) 16px 0px 32px 0px;
 }
 .offCanvas-menu-visible .offCanvas-wrap {
-  transform: translateX(290%);
+  transform: translateX(0);
 }
 .offCanvas-wrap::-webkit-scrollbar {
   width: 0px;
