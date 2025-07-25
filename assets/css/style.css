@@ -322,7 +322,7 @@ label {
   z-index: 1;
   overflow: hidden;
 }
-.btn::before {
+.btn::after {
   content: "";
   position: absolute;
   -webkit-transition-duration: 800ms;
